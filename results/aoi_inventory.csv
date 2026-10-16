@@ -1,0 +1,18 @@
+aoi,category,n_scenes,n_patches,aoi_id
+argentina_cordoba_periurban,Peri-Urban Mixed,1,699,A01
+argentina_la_pampa_farmland,Agricultural Zone,1,675,A02
+canada_saskatchewan_regina_plain,Agricultural Zone,1,526,A03
+china_poyang_lake_wetland,Wetland,1,722,A04
+china_west_sichuan_mountain,Mountain,2,1444,A05
+china_xilingol_grassland,Grassland,1,600,A06
+finland_kainuu_forest,Forest,1,349,A07
+georgia_borjomi_forest,Forest,1,625,A08
+heilongjiang_harbin_plain,Agricultural Zone,2,1150,A09
+henan_hebi,Agricultural Zone,1,675,A10
+israel_tel_aviv_periurban,Peri-Urban Mixed,1,700,A11
+kazakhstan_pavlodar_steppe,Grassland,1,500,A12
+liaoning_tieling_plain,Agricultural Zone,1,608,A13
+morocco_atlas_mountain,Mountain,1,703,A14
+poland_bialowieza_forest,Forest,1,502,A15
+south_korea_ulsan_wetland,Wetland,1,677,A16
+turkey_kizilirmak_delta_wetland,Wetland,1,625,A17
