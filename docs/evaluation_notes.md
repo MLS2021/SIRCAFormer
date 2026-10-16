@@ -4,7 +4,7 @@
 
 `B1` = Direct SAR Fusion; `C3` = SIRCAFormer. The other identifiers are AnytimeFormer, DSen2-CR, EDM-CR, and RESTORE-DiT.
 
-The four external models were evaluated using their final (`last`) checkpoints. B1 and C3 used checkpoints selected by validation reflectance MAE (`best`). These are different checkpoint-selection rules; the comparisons describe these evaluated models and do not establish superiority over validation-selected external checkpoints.
+The four external models were evaluated using their final checkpoints. B1 and C3 used checkpoints selected by validation reflectance MAE. These are different checkpoint-selection rules; the comparisons describe these evaluated models and do not establish superiority over validation-selected external checkpoints.
 
 ## Tables
 
